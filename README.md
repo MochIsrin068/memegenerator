@@ -1,6 +1,6 @@
 # memegenerator
 
-A new Flutter project.
+<video style="display:block; width:100%; height:auto;" autoplay controls loop="loop"><source src="memeVid.mp4" type="video/mp4" /></video>
 
 ## Getting Started
 
