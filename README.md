@@ -1,6 +1,6 @@
 # memegenerator
 
-<img src="memVid.gif" alt="Meme Generator">
+<img src="memeVid.gif" alt="Meme Generator">
 
 ## Getting Started
 
